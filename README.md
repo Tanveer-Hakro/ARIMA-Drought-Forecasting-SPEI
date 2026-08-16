@@ -73,3 +73,27 @@ ARIMA performed better for **short-term one-step-ahead forecasting** than for pr
 The complete analysis is available in:
 
 `arima-drought-forecasting-using-spei.ipynb`
+
+## Dataset Source
+
+The dataset used in this project is publicly available on Kaggle:
+
+**Global Drought Monitor – Climate Change Time Range**
+Dataset by **brsdincer**
+
+🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/brsdincer/global-drought-monitor-climate-change-time-range)
+
+For this project, the **SPEI-01 NetCDF file (`spei01.nc`)** was used to extract monthly SPEI values for the Islamabad region, Pakistan.
+
+### Data Used
+
+* **Index:** SPEI-01
+* **Format:** NetCDF (`.nc`)
+* **Location:** Islamabad region, Pakistan
+* **Selected grid:** 33.5°N, 73.5°E
+* **Period:** January 1950 – July 2021
+* **Monthly observations:** 859
+* **Missing SPEI values:** 0
+
+> The original dataset is not included in this repository. Please download it directly from Kaggle using the link above.
+
