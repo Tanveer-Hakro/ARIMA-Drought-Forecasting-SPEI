@@ -73,7 +73,3 @@ ARIMA performed better for **short-term one-step-ahead forecasting** than for pr
 The complete analysis is available in:
 
 `arima-drought-forecasting-using-spei.ipynb`
-
-## Author
-
-**Tanveer Hakro**
